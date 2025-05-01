@@ -1,52 +1,31 @@
-# 🏨 AtliQ Grands Hospitality Insights – Power BI Dashboard
+# 🏨 AtliQ Grands Hospitality Insights – Power BI Dashboard 📊
 
-🚀 **Welcome to My Interactive Hospitality Analytics Project!**  
-This project showcases a dynamic **Power BI dashboard** developed for AtliQ Grands, a premium five-star hotel chain in India. The goal was to help their revenue management team make **data-driven decisions** amid growing competition and strategic challenges.
+This project presents an **interactive Power BI dashboard** developed for **AtliQ Grands**, a premium five-star hotel chain in India. The dashboard aims to help the Revenue Management Team make data-driven decisions by providing insights into key business metrics like revenue, occupancy, bookings, and performance across hotels, cities, and room categories.
 
----
+## Problem Statement 🚩
+AtliQ Grands faced challenges with **declining market share** and **lack of internal analytics** to drive data-informed decisions. The goal was to create a dashboard that consolidates data and provides actionable insights for better strategic decisions.
 
-## 📌 Project Overview
+## Key Features 🔍
+- **Executive KPIs**: Displays Total Revenue, Bookings, Cancellations, and Average Customer Rating 💰📊
+- **Booking Platform Performance**: Breakdown by booking platforms (Direct, OTA, Corporate) 🌐
+- **Hotel & City Insights**: Revenue and occupancy data for each hotel and city 🏨🌆
+- **Room Class Performance**: Revenue contribution by room types (Standard, Deluxe, Suite) 🛏️
+- **Key Metrics**: ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and Occupancy Rate 📈
+- **Trend Analysis**: Weekly trends for bookings, revenue, and cancellations 📅
+- **Interactive Filters**: Filter data by Hotel, City, Room Class, and Booking Platform for detailed analysis 🔄
 
-Due to declining market share and the absence of an internal analytics team, **AtliQ Grands** outsourced their data intelligence needs. This dashboard was created to deliver **clear, actionable insights** into:
+## Tools & Techniques Used 🛠️
+- **Power BI**: Data visualization and interactive reporting 📊
+- **DAX**: Custom metrics and KPIs 🔢
+- **Power Query**: Data cleaning and transformation 🔄
 
-- Revenue  
-- Occupancy  
-- Booking trends  
-- Performance by city, hotel, room class, and booking platform
+## Insights 💡
+- **Revenue**: Mumbai and Bangalore generate the highest revenue 💵
+- **Room Categories**: Elite and Premium rooms contribute the most to total revenue 🏆
+- **Booking Channels**: OTA and Corporate platforms outperform Direct bookings 🌍
+- **Occupancy & Cancellations**: Identified trends in occupancy dips and cancellation spikes 📉
 
----
+This dashboard empowers AtliQ Grands to optimize revenue strategies and improve decision-making across their operations. 🚀
 
-## 🔍 Features of the Dashboard
-
-- 💰 **Executive KPIs**: Revenue, Bookings, Cancellations, Avg. Customer Rating  
-- 🧳 **Booking Platform Analysis**: Revenue & performance by platform (Direct, OTA, Corporate)  
-- 🏨 **Hotel & City Performance**: Revenue and occupancy breakdown by hotel and city  
-- 🛏 **Room Class Insights**: Revenue contribution by room category (Standard, Deluxe, Suite)  
-- 📈 **Performance Metrics**:  
-  - ADR (Average Daily Rate)  
-  - RevPAR (Revenue per Available Room)  
-  - Occupancy Rate  
-- 📊 **Trend Analysis**: Week-over-week trends in bookings, revenue, and cancellations  
-- 🎛 **Interactive Filters**: Hotel, City, Room Class, and Booking Platform  
-
----
-
-## 🛠 Tools & Techniques Used
-
-- 📊 **Power BI** – For interactive data visualization  
-- 🧮 **DAX** – For custom KPIs and calculated measures  
-- 🔗 **Data Modeling & Relationships** – For structured analytical flow  
-- 🧹 **Power Query** – For data cleaning and transformation  
-
----
-
-## 📈 Key Insights from the Dashboard
-
-- 🔎 Identifies **underperforming hotels** and **low-conversion booking platforms**  
-- 💼 Highlights **profitable room categories** and **top-performing cities**  
-- 📉 Tracks **occupancy dips** and **cancellation spikes**  
-- 🧠 Enables the team to take **proactive, data-driven decisions**  
-
----
 
 
